@@ -106,7 +106,7 @@ Load the app in IRB, require the account, transaction, and statement files, crea
 
 Successful deposit, withdrawal and printing of the account statement:
 
-![](https://github.com/RedPRO16/Bank-Tech-Test_2_Ruby/blob/main/Screenshot%202022-10-18%20at%2021.10.55.png)
+![](https://github.com/RedPRO16/Bank-Tech-Test_2_Ruby/blob/main/Bank%20tech%20test%20RUBY%20with%202%20CLASS.png)
 
 ## <a name="Methods">Classes & Methods</a>
 
