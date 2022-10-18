@@ -1,6 +1,6 @@
 # Bank-Tech-Test_With 2 Class 
 
-### [Makers Academy](http://www.makersacademy.com) - Week 10 Solo Tech Test Practice
+### [Makers Academy](http://www.makersacademy.com) - Tech Test Practice
 Bank
 -
 
@@ -115,8 +115,8 @@ Successful deposit, withdrawal and printing of the account statement:
 | Methods | Description |
 | --- | --- |
 | Account.new     | Creates a new instance of an Account |
-| .deposit(amount, date) | Attempts a positive amount and date (eg: 01/01/2020) to update the account balance and returns the formatted transaction visible on the account statement. If no date is given it automaticly sets to today's date |
-| .withdraw(amount, date) | Attempts a positive amount and date (eg: 01/01/2020) to update the account balance and returns the formatted transaction visible on the account statement. If no date is given it automaticly sets to today's date |
+| .deposit(amount, date) | Attempts a positive amount and date (eg: 10/01/2023) to update the account balance and returns the formatted transaction visible on the account statement. If no date is given it automaticly sets to today's date |
+| .withdraw(amount, date) | Attempts a positive amount and date (eg: 10/01/2023) to update the account balance and returns the formatted transaction visible on the account statement. If no date is given it automaticly sets to today's date |
 | .statement.print | Prints a account statement with all the transactions made |
 
 ### Transaction
