@@ -1,1 +1,1 @@
-# Bank-Tech-Test_2_Ruby-
+# Bank-Tech-Test_2
