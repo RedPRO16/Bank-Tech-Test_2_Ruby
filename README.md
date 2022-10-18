@@ -1,4 +1,4 @@
-# Bank-Tech-Test_2
+# Bank-Tech-Test_With 2 Class 
 
 ### [Makers Academy](http://www.makersacademy.com) - Week 10 Solo Tech Test Practice
 Bank
